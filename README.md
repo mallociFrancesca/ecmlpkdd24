@@ -12,7 +12,7 @@
 [Daniela Rotelli](https://scholar.google.com/citations?user=OAELHzsAAAAJ&hl=it) (University of Pisa, Italy).
 
 
-Hands on **Tutorial on Responsible Knowledge Discovery in Education (RKDE)** held as part of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECMLPKKD**), Vilnius (Lithuania), 13th September 2024. 
+Hands on **Tutorial on Responsible Knowledge Discovery in Education (RKDE)** held as part of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECMLPKDD**), Vilnius (Lithuania), 13th September 2024. 
 
 
 ## Material
